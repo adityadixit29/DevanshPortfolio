@@ -5,7 +5,6 @@ import adobeIcon from "@/assets/images/adobe-logo.svg";
 import miroIcon from "@/assets/images/miro-logo.svg";
 import framerIcon from "@/assets/images/framer-logo.svg";
 import webflowIcon from "@/assets/images/webflow-logo.svg";
-import Image from "next/image";
 import IntegrationsColumn from "@/components/IntegrationsColumn";
 
 const integrations = [
