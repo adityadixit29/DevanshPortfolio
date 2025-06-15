@@ -1,4 +1,3 @@
-import { div } from "framer-motion/m";
 import { twMerge } from "tailwind-merge";
 
 export default function Pointer(props: {
